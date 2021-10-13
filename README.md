@@ -1,5 +1,5 @@
-### Hi there 👋
-
+👋
+[![wakatime](https://wakatime.com/badge/user/7860f1e4-ca9f-4f23-a068-45f74fa1b893.svg)](https://wakatime.com/@7860f1e4-ca9f-4f23-a068-45f74fa1b893)
 <!--
 **Finnko/Finnko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
